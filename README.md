@@ -1,3 +1,3 @@
 # App Loyalt
 
-Loyalt apresentado para atividade 2.
+ Apresentado para atividade 2 de Desenvolvimento Web
